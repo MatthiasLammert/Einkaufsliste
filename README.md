@@ -26,7 +26,7 @@ Telefonnummer
 
 ###Berufliche Tätigkeiten
 
-MM/JJ – MM/JJ:	Berufsbezeichnung, Arbeitgeber und Ort
+MM/JJ – MM/JJ:	Berufsbezeichnung, Arbeitgeber und Ort 
 MM/JJ – MM/JJ:	Berufsbezeichnung, Arbeitgeber und Ort
 
 ###Kenntnisse/Interessen

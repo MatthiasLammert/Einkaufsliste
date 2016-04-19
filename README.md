@@ -19,7 +19,8 @@ Telefonnummer
 
 *Familienstand:*	Familienstand
 
-HOCHSCHULSTUDIUM ODER AUSBILDUNG
+HOCHSCHULSTUDIUM ODER AUSBILDUNG 
+
 Fach:	oder Ausbildung, mit Zeitangabe Universität/Arbeitgeber und Ort
 Abschluss:	Berufsbezeichnung
 Studienschwerpunkte:	stichpunktartig

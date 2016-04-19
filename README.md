@@ -1,47 +1,40 @@
 # Lebenslauf
 
 
-##Persöhnliche Daten:
+###Persöhnliche Daten:
 
 *Name:*	Vorname Familienname
 
-*Anschrift:*
-	
+**Anschrift:**
 Straße Hausnummer
-
 Postleitzahl Ort
-
 Telefonnummer
 
-*Mail:* Name@email.de
+**Mail:** Name@email.de
 
-*Geburtsdatum:*	Datum in Geburtsort
+**Geburtsdatum:**	Datum in Geburtsort
 
-*Familienstand:*	Familienstand
+**Familienstand:**	Familienstand
 
-HOCHSCHULSTUDIUM ODER AUSBILDUNG 
+###Schulungslaufbahn
 
-Fach:	oder Ausbildung, mit Zeitangabe Universität/Arbeitgeber und Ort
-Abschluss:	Berufsbezeichnung
-Studienschwerpunkte:	stichpunktartig
-Praktikum:	mit Zeitangabe und Ort
+1. Kindergarten
+2. Grundschule
+3. Realschule
+4. Berufskolleg
+5. Studium
 
-BERUFLICHE TÄTIGKEITEN
+###Berufliche Tätigkeiten
+
 MM/JJ – MM/JJ:	Berufsbezeichnung, Arbeitgeber und Ort
 MM/JJ – MM/JJ:	Berufsbezeichnung, Arbeitgeber und Ort
 
-SCHULBILDUNG
-MM/JJ – MM/JJ:	Schule und Ort
-MM/JJ – MM/JJ:	Schule und Ort, Abschluss
+###Kenntnisse/Interessen
 
-ZIVIL- ODER WEHRDIENST
-MM/JJ – MM/JJ::	Tätigkeit und Ort
-
-BESONDERE KENNTNISSE UND INTERESSEN
 EDV:	Aufzählung der Programme 
 Sprachen:	Englisch, Französisch
 Interessen:	Hobbies 
 
-Ort, den 19.04.2016
+Furtwangen, den 19.04.2016
 (Handschriftliche Unterschrift)
 
